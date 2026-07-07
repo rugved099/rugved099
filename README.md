@@ -37,7 +37,7 @@ Frontend Developer • MERN Stack Developer • C++ Programmer
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:rugvedsitafale1014@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -125,12 +125,7 @@ Frontend Developer • MERN Stack Developer • C++ Programmer
 
 ---
 
-## 💡 Quote
 
-> *"It's not who I am underneath, but what I do that defines me."*  
-> — Batman
-
----
 
 <div align="center">
 
