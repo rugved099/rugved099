@@ -1,5 +1,5 @@
 <h1 align="center">
-  🦇 Hi, I'm Rugved Sitafale
+  Hi, I'm Rugved Sitafale
 </h1>
 
 <h3 align="center">
