@@ -77,27 +77,6 @@ Frontend Developer • MERN Stack Developer • C++ Programmer
 
 </div>
 
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rugved099&theme=algolia&margin-w=15&margin-h=15&column=4"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rugved099&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugved099&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
