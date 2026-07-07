@@ -3,12 +3,12 @@
 </h1>
 
 <h3 align="center">
-Frontend Developer • MERN Stack Developer • C++ Programmer • Robotics Enthusiast
+Frontend Developer • MERN Stack Developer • C++ Programmer 
 </h3>
 
 <div align="center">
 
-<img src="https://media.tenor.com/REPLACE_WITH_DIRECT_GIF_URL.gif" width="700"/>
+<img src="[https://media.tenor.com/REPLACE_WITH_DIRECT_GIF_URL.gif](https://tenor.com/en-GB/view/batman-batman-legacy-of-the-dark-knight-batman-lego-batman-legacy-of-the-dark-knight-batman-batman-batman-lego-batman-lego-batman-batman-gif-7805522072047489826)" width="700"/>
 
 </div>
 
@@ -19,10 +19,9 @@ Frontend Developer • MERN Stack Developer • C++ Programmer • Robotics Enth
 - 🎓 B.Tech CSE Student from India
 - 💻 Passionate about Full Stack Development
 - 🌐 Currently learning **MERN Stack**
-- 🤖 Robotics Developer (ESP32 | Micromouse | Embedded Systems)
-- ⚡ Solving DSA problems using C++
+- ⚡ Solving DSA problems.
 - 🎨 UI/UX enthusiast who loves modern animations
-- 🦇 Batman Fan
+
 
 ---
 
