@@ -8,7 +8,13 @@ Frontend Developer • MERN Stack Developer • C++ Programmer
 
 <div align="center">
 
-<img src="[https://media.tenor.com/REPLACE_WITH_DIRECT_GIF_URL.gif](https://tenor.com/en-GB/view/batman-batman-legacy-of-the-dark-knight-batman-lego-batman-legacy-of-the-dark-knight-batman-batman-batman-lego-batman-lego-batman-batman-gif-7805522072047489826)" width="700"/>
+<img src="./assets/batman.gif" width="100%" alt="Batman"/>
+
+<br>
+
+<h3>
+🦇 Building the Future, One Commit at a Time.
+</h3>
 
 </div>
 
