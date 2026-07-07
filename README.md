@@ -8,7 +8,7 @@ Frontend Developer • MERN Stack Developer • C++ Programmer
 
 <div align="center">
 
-<img src="./assets/batman.gif" width="100%" alt="Batman"/>
+<img src="./assets/batgif.gif" width="100%" alt="Batman"/>
 
 <br>
 
